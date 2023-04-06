@@ -1,0 +1,10 @@
+i have uploaded video on cloudinary 
+
+cloudinary:it is a cloud storage used for storing files so that we dont need to store that files in our database
+and query to database becomes faster
+i have stored link to that video in our database (used mongoDB)
+
+Enviorment varibles:
+CLOUDINARY_NAME:User name of cloudinary account
+CLOUDINARY_KEY: key for cloudinary account
+CLOUDINARY_SECRET: secret key for cloudinary account
